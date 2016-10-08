@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1475197955 source:d:\primerparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"lib.h"
+
+1475198846 d:\primerparcial\lib.h
+
+1475198846 source:d:\primerparcial\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"lib.h"
+
+1475238055 source:d:\usuarios\alan\desktop\primerparcial\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"lib.h"
+
+1475198848 d:\usuarios\alan\desktop\primerparcial\lib.h
+
+1475198892 source:d:\usuarios\alan\desktop\primerparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"lib.h"
+
+1475238055 source:d:\utn\programacion_1\primerparcial\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"lib.h"
+
+1475198848 d:\utn\programacion_1\primerparcial\lib.h
+
+1475198892 source:d:\utn\programacion_1\primerparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"lib.h"
+
