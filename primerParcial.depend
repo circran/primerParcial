@@ -47,3 +47,23 @@
 	<ctype.h>
 	"lib.h"
 
+1476120757 source:d:\utn\programacion_1\primerparcial\primerparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"lib.h"
+
+1476122412 d:\utn\programacion_1\primerparcial\primerparcial\lib.h
+
+1476122506 source:d:\utn\programacion_1\primerparcial\primerparcial\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"lib.h"
+
+1475971500 d:\utn\programacion_1\primerparcial\primerparcial\libabonados.h
+
+1475970939 d:\utn\programacion_1\primerparcial\primerparcial\libllamadas.h
+

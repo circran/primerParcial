@@ -4,11 +4,8 @@
 #include <ctype.h>
 #include "lib.h"
 
-#define ABONADOS 3
-#define LLAMADAS 3
-#define falla3g 0
-#define fallaLTE 1
-#define fallaEquipo 2
+#define ABONADOS 10
+#define LLAMADAS 10
 
 int main()
 {
@@ -17,6 +14,7 @@ int main()
     int opcion;
 
     inicializarArrayAbonados(arrayAbonados,ABONADOS);
+    inicializarArrayLlamadas(arrayLlamadas,LLAMADAS);
 
     do
     {
@@ -49,9 +47,9 @@ int main()
             break;
 
         case 6://INFORMAR
-            informes(arrayAbonados,arrayLlamadas,ABONADOS,LLAMADAS);//NO LLEGUE POR EL TIEMPO
+            informes(arrayAbonados,arrayLlamadas,ABONADOS,LLAMADAS);
             break;
-        }//NO LLEGUE CON EL TIEMPO
+        }
 
     }while(opcion != 7);
     return 0;
